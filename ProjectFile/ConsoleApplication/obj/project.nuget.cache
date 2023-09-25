@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frr7OFFbmKdG2hREp1wP3cpE1ZVMw6xod6tG2HNPkaNy/13BedqHvHBOxYTtKv+PkA/cTP0AC4Ff5oliBce0tg==",
+  "dgSpecHash": "j913wNhYxinHZY/7FCI67pTWcEyDstJlEnQWfIiN4tx3YOc4rqlVPnwHRYs+RT5AI465PCv/y75TsFhnBOva5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnn\\OneDrive\\Desktop\\Backup\\Backend\\ProgramManagementConcole.csproj",
+  "projectFilePath": "C:\\Users\\johnn\\OneDrive\\Desktop\\MyProject\\ProgramApplicationTask\\ProjectFile\\ConsoleApplication\\ProgramManagementConcole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnn\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\johnn\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",

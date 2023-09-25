@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WFkPaOO1Aqm49uHKXX1rJmAfk5rN9BDKWgblXEwJcN+ubDK/Alwu61qn1ZhcoxNVfwnXULbJcocu6/UfB6zLRQ==",
+  "dgSpecHash": "M4dG7LMnuGvtTl+Qxfs5yJ1KAdsFXRSzyLDZWmIqXNMCOSXPf005+pT31hqyWnX60PhIgF+UUIR32RF6tGGbpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnn\\OneDrive\\Desktop\\Backup\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\johnn\\OneDrive\\Desktop\\MyProject\\ProgramApplicationTask\\ProjectFile\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnn\\.nuget\\packages\\cloudinarydotnet\\1.22.0\\cloudinarydotnet.1.22.0.nupkg.sha512",
     "C:\\Users\\johnn\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

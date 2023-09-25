@@ -300,14 +300,14 @@ namespace Backend.UI
                 if(int.TryParse(Console.ReadLine(), out int programDurationInput))
                 {
                     programduration = (Duration)programDurationInput;
-                    isValidProgramType = Enum.IsDefined(typeof(Duration), programduration);
+                    isValidProgramDuration = Enum.IsDefined(typeof(Duration), programduration);
                 }
                 else
                 {
                     isValidProgramDuration = false;
                 }
 
-                if(!isValidProgramType)
+                if(!isValidProgramDuration)
                 {
                     Console.WriteLine("Invalid input. Please select a valid program type.");
                     Console.WriteLine("****************************************");
